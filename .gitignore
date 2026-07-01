@@ -1,0 +1,8 @@
+# Ignore temporary Excel lock files
+~$*.xlsx
+~$*.xls
+
+# Ignore Power BI user settings and cache data
+*.workspace
+*.pbit
+*.pbiux
