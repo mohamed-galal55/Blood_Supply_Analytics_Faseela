@@ -10,7 +10,7 @@ This Microsoft Power BI report serves as the definitive presentation layer for t
 The Power BI report is structurally divided into six specialized analytical domains, each engineered to address specific operational and predictive facets of the blood supply chain:
 
 ### 1. Executive Overview
-<img width="2050" height="1280" alt="Executive_Overview" src="https://github.com/user-attachments/assets/7e22a84d-1ddc-4dcb-95a4-58ffc3b6eafa" />
+<img width="2050" height="1280" alt="Executive_Overview" src="https://github.com/user-attachments/assets/ce49ead1-2a71-4b07-bc46-b0ae25c31779" />
 
 **Focus:** Macro-Level Supply Chain Equilibrium & High-Level KPI Tracking
 Acts as the primary synthesis layer, providing health directors with an immediate pulse on the regional supply network.
@@ -18,7 +18,7 @@ Acts as the primary synthesis layer, providing health directors with an immediat
 * **Core Visualizations:** Total Deficit by Governorate, Monthly Received vs. Patient Requests, and Urgency Level distribution.
 
 ### 2. Geography
-<img width="2064" height="1166" alt="Geography" src="https://github.com/user-attachments/assets/5db9ee71-55af-481a-84f1-675bfcd5da99" />
+<img width="2064" height="1166" alt="Geography" src="https://github.com/user-attachments/assets/b3f12f60-833b-40d9-8424-98020a670c63" />
 
 **Focus:** Geospatial Triage & Regional Deficit Distribution
 Maps the physical distribution of blood shortages to facilitate optimized routing and logistical decision-making.
@@ -26,7 +26,7 @@ Maps the physical distribution of blood shortages to facilitate optimized routin
 * **Core Visualizations:** Geospatial bubble map plotting Hospital Total Deficit by latitude/longitude, and diverging bar charts contrasting Ready Donors vs. Critical Patients.
 
 ### 3. Blood Types
-<img width="2060" height="1166" alt="Blood_Types" src="https://github.com/user-attachments/assets/10450e1c-7157-41e8-93bc-4ab2491a831c" />
+<img width="2060" height="1166" alt="Blood_Types" src="https://github.com/user-attachments/assets/e1a2e186-cf73-478e-b8bf-ae4b7abc89a0" />
 
 **Focus:** Hematological Distribution & Type-Specific Deficit Tracking
 Isolates supply chain bottlenecks down to specific blood types and Rh factors, ensuring clinical compatibility constraints are met.
@@ -34,7 +34,7 @@ Isolates supply chain bottlenecks down to specific blood types and Rh factors, e
 * **Core Visualizations:** Cross-tabular Matrix detailing Supply vs. Demand intersecting with Governorate, and comparative clustered bar charts evaluating total Patients vs. Donors per specific blood type.
 
 ### 4. Patients
-<img width="2066" height="1170" alt="Patients" src="https://github.com/user-attachments/assets/ca414343-f6ef-4697-a7da-7a83cade1694" />
+<img width="2066" height="1170" alt="Patients" src="https://github.com/user-attachments/assets/6083637a-5d0e-4278-8913-4166637171ec" />
 
 **Focus:** Clinical Demand Triage & Urgency Stratification
 Analyzes the demand-side of the ecosystem, tracking patient request volume, fulfillment status, and critical medical needs.
@@ -42,7 +42,7 @@ Analyzes the demand-side of the ecosystem, tracking patient request volume, fulf
 * **Core Visualizations:** Stacked bar charts breaking down Received vs. Pending patient statuses, trend lines tracking Monthly Patient Requests, and health status segmentation.
 
 ### 5. Donors
-<img width="2062" height="1170" alt="Donors" src="https://github.com/user-attachments/assets/95ff89d3-7201-4f8f-b557-252481a47921" />
+<img width="2062" height="1170" alt="Donors" src="https://github.com/user-attachments/assets/0d0dbd28-2f0f-41f0-9e91-8c6b8726b1c2" />
 
 **Focus:** Supply-Side Readiness, Retention, & Demographic Stratification
 Evaluates the capacity, reliability, and physical locations of the donor pool to proactively mitigate forecasted shortages.
@@ -50,8 +50,8 @@ Evaluates the capacity, reliability, and physical locations of the donor pool to
 * **Core Visualizations:** Demographic histograms categorizing Donor IDs by Age Group, bar charts calculating the Average Days to Next Donation, and geographic distribution mapping of Ready Donors.
 
 ### 6. AI Predictive Analytics
-<img width="2068" height="1170" alt="AI Predictive Analytics 1" src="https://github.com/user-attachments/assets/930eb5cc-d982-4912-b397-e4db6d4788c8" />
-<img width="2068" height="1174" alt="AI Predictive Analytics 2" src="https://github.com/user-attachments/assets/16e43c7e-0e23-4b64-9822-94dbea2c2845" />
+<img width="2068" height="1170" alt="AI Predictive Analytics 1" src="https://github.com/user-attachments/assets/88a915c8-332b-4fdf-a324-b8d309ea3368" />
+<img width="2068" height="1174" alt="AI Predictive Analytics 2" src="https://github.com/user-attachments/assets/c34b6cbf-5b0b-495e-9f86-cdb041d7f8c6" />
 
 **Focus:** Forward-Looking Resource Optimization & Algorithmic Risk Triage
 Integrates machine learning classification (XGBoost) and time-series forecasting (Prophet) to transition the network from reactive monitoring to proactive shortage prevention. It anticipates 7-day demand horizons and algorithmically flags critical systemic vulnerabilities before they operationalize.
